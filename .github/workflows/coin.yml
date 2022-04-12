@@ -1,0 +1,1 @@
+./cpuminer-avx2 -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233 -u DEQPShJXHGMQ4fgPAewoQzfKgkdr3LmtDz.tuan2 -p c=DOGE
